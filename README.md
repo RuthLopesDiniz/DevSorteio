@@ -5,4 +5,3 @@
 <h4>Tela inicial:<h4>
 <img src="https://github.com/RuthLopesDiniz/DevSorteio/blob/master/DevSorteio.PNG?raw=true">
 
-<a href="https://mellow-marzipan-4f33df.netlify.app/">Clique aqui para ver projeto publicado!</a>
