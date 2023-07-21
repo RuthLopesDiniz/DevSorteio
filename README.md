@@ -6,6 +6,6 @@
 <img src="https://github.com/RuthLopesDiniz/DevSorteio/blob/master/DevSorteio.PNG?raw=true">
 
   <h4>Confira no link abaixo::<h4>
-<a href="sorteandodev.netlify.app">Clique aqui para ver projeto publicado!</a>
+<a href="https://sorteandodev.netlify.app/">Clique aqui para ver projeto publicado!</a>
 
 
